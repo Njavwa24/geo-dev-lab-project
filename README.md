@@ -7,4 +7,5 @@ Quick Overview
 Location: Ndola District, Copperbelt Province, Zammbia
 Projected CRS: EPSG:32631 (WGS 84 / UTM Zone 35S)
 This will carried out during the GeoDev Lab Africa, Cohort One (2026), a one year program me
-See Project Brief.md for full data source specifications and project scope.
+
+See project-brief.md for full data source specifications and project scope.
